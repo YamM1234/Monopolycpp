@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Cards">
+      <UniqueIdentifier>{8175111d-5930-4fd4-83e8-b48b356467c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Events">
+      <UniqueIdentifier>{927a5adc-9a96-440a-a6f2-6c57f40c5984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Buyables">
+      <UniqueIdentifier>{d706d37b-1aa4-499b-b0e8-6dc79f0ef61f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base">
+      <UniqueIdentifier>{77349190-35e8-420e-af79-1538355d2857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cards">
+      <UniqueIdentifier>{852e4693-cda6-4fac-b903-bb61d26ead86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Buyables">
+      <UniqueIdentifier>{5681d571-b182-4a1a-8517-ea541b97773e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Base">
+      <UniqueIdentifier>{ffdb8ad1-f281-48e7-b140-65fddf476daa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Events">
+      <UniqueIdentifier>{502ec3fb-d235-4a69-a20a-fbf7035bab47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Board Display">
+      <UniqueIdentifier>{a628c4e0-09af-461e-9003-950295329ebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats">
+      <UniqueIdentifier>{137af972-a053-49f1-8d40-62a8497ead0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats">
+      <UniqueIdentifier>{56c4890b-1921-4669-b056-71a99e9b0616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Printer">
+      <UniqueIdentifier>{da9ec875-122f-4eb2-8dbf-0c9ab5656b48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Buyable.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\EventCards.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Tile.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\capitalismCard.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\CommunismCard.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\GameBoard.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\getMoney.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="GoToJail.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\IncomeTax.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\LuxuryTax.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementCard.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\payMoney.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\RelativeMovementCard.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="Property.h">
+      <Filter>Header Files\Buyables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Railroad.h">
+      <Filter>Header Files\Buyables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Utilities.h">
+      <Filter>Header Files\Buyables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Player.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Chance.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\GoToJailTile.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\AllEventCards.h">
+      <Filter>Header Files\Cards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Printer.h">
+      <Filter>Header Files\Board Display</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Cheats.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\capitalismCard.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\CommunismCard.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Event.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Buyable.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\GameBoard.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\getMoney.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="GoToJail.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\IncomeTax.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\LuxuryTax.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\MovementCard.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\payMoney.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Player.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Property.cpp">
+      <Filter>Source Files\Buyables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Railroad.cpp">
+      <Filter>Source Files\Buyables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\RelativeMovementCard.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Tile.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Utilities.cpp">
+      <Filter>Source Files\Buyables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\EventCards.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Chance.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\GoToJailTile.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Cheats.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Yam%27s Education\Programming Fundamentals 2\Monopoly\Monopoly\Printer.cpp">
+      <Filter>Source Files\Printer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
